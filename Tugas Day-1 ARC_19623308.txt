@@ -1,0 +1,19 @@
+Tugas Day 1-ARC
+
+Nama: Ni Made Sekar Jelita Parameswari
+NIM: 19623308
+
+1. Apa itu merge conflict dan cara menanggulanginya?
+2. Apa itu git rebase?
+3. Apa itu fork dan pull request github?
+
+Jawaban
+1. Merge conflict adalah sebuah kasus yang terjadi ketika proses merge pada sebuah repository dilakukan, tetapi terdapat perbedaan atau pertentangan pada perubahan yang dibuat dari source yang berbeda. Pertentangan tersebut dapat mengakibatkan proses merge menjadi terhambat atau gagal dilakukan.
+
+Merge conflict dapat diatasi dengan mengulang progress dan memulai dari awal atau dengan menyelesaikan conflict. Conflict dapat diselesaikan menggunakan fitur Visual Studio Code yaitu Merge Editor. Dengan Merge Editor, kita dapat membandingkan perubahan yang kita lakukan, perubahan yang orang lain lakukan, dan code sebelum dilakukan perubahan. Kita dapat membandingkan dan melakukan combining pada code yang ditampilkan.
+
+2. Git rebase adalah proses menggabungkan atau memindahkan commit-commit pada sebuah base commit yang baru. Secara garis besar, git rebase adalah proses menggabungkan commit baru pada ujung branch utama sehingga commit baru tersebut menjadi bagian dari seluruh rangkaian branch utama tersebut.
+
+3. Forking a repository berarti membuat sebuah copy dari repository utama yang memiliki akses visibilitas dan code yang sama. Salah satu contoh penggunaan fork adalah ketika melakukan fork repository pada repository yang ingin kita lakukan perubahan sebelum melakukan pull request agar perubahan yang dilakukan dapat dianalisis dan di-merge dengan repository utama.
+
+Pull request adalah pengajuan untuk melakukan perubahan pada branch di sebuah repository yang dikerjakan di GitHub. Dengan melakukan pull request, perubahan yang diajukan dapat dilihat dan didiskusikan oleh kolaborator lainnya. Pull request ini juga menunjukkan perbedaan dari code yang diubah dengan code sumber.
