@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,600;1,800&display=swap');
+
+h3 {
+    color: cyan;
+    
+}
+
+button {
+    font-size: 12px;
+    padding: 0.5em 1em;
+    margin: 0.25em;
+    border-radius: 1em;
+    color: purple;
+    background: none;
+    border-color: blueviolet;
+    outline: none;
+    cursor: pointer;
+}
+
+button.hover {
+    background-color: blueviolet;
+}
+
