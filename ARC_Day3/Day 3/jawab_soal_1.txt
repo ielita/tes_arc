@@ -1,0 +1,3 @@
+Library Axios
+	Axios adalah library Javascript yang digunakan untuk membuat request HTTP dari node.js. Axios dapat mempermudah pembuatan request HTTP baik bagi client maupun server aplikasi. Request-request tersebut seperti operasi HTTP, yaitu GET, POST, dan DELETE.
+	
